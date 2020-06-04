@@ -1,1 +1,2 @@
-html and css files
+html and css files.
+Finalize it
