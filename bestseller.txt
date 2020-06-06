@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 le livre de cheikh Anta Diop.
 Ce livre est merveilleux
-=======
 Ceci est un best seller
->>>>>>> universal
